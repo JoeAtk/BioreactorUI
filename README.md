@@ -1,6 +1,6 @@
 ### Bioreactor Control UI
 
-A responsive, real-time interface for monitoring and controlling bioreactor parameters (Temperature, pH, RPM). Built with React, Vite, and MQTT.
+UI for monitoring/controlling the bioreactor. Must be ran/hosted on a computer.
 
 Install Node.js (Version 16 or higher) installed on your computer.
 
